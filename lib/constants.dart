@@ -12,7 +12,7 @@ const String iosDefaultIconFolder =
     'ios/Runner/Assets.xcassets/AppIcon.appiconset/';
 const String iosAssetFolder = 'ios/Runner/Assets.xcassets/';
 const String iosConfigFile = 'ios/Runner.xcodeproj/project.pbxproj';
-const String iosDefaultIconName = 'Icon-App';
+const String iosDefaultIconName = 'Icon';
 
 const String errorMissingImagePath =
     'Missing "image_path" or "image_path_android" + "image_path_ios" within configuration';
